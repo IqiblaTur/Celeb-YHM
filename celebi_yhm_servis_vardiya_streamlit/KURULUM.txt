@@ -1,0 +1,15 @@
+YHM-Shift Kurulum Notu
+
+1) Bu ZIP dosyasını bilgisayarında bir klasöre çıkart.
+2) Terminal / CMD / PowerShell aç.
+3) Klasörün içine gir:
+   cd YHM_Shift_Github_Hazir
+4) Gerekli kütüphaneleri kur:
+   pip install -r requirements.txt
+5) Uygulamayı çalıştır:
+   streamlit run app.py
+
+GitHub / Streamlit Deploy için:
+- Bu klasördeki tüm dosyaları GitHub reposuna yükle.
+- Streamlit Community Cloud'da Main file path kısmına şunu yaz:
+  app.py
