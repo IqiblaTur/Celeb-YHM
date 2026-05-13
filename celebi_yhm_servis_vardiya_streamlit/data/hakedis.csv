@@ -1,0 +1,27 @@
+Havayolu Şirketi,Kriter Tipi,Kriter Detayı / Kapasite,Kontuar Sayısı,Özel Notlar
+Uzbekistan Airways,Kapasite,0-150 Yolcu,4 Kontuar,
+,Kapasite,150-200 Yolcu,5 Kontuar,
+,Kapasite,200+ Yolcu,7 Kontuar,
+Aegean,Yolcu Sayısı,0-60 Yolcu,2 Kontuar,
+,Yolcu Sayısı,61-119 Yolcu,3 Kontuar,
+,Yolcu Sayısı,120+ Yolcu,4 Kontuar,
+Arabia,Yolcu Sayısı,0-56 Yolcu,1 Kontuar,
+,Yolcu Sayısı,56-111 Yolcu,2 Kontuar,
+,Yolcu Sayısı,112-167 Yolcu,3 Kontuar,
+,Yolcu Sayısı,168+ Yolcu,4 Kontuar,
+Irak,Yolcu Sayısı,0-60 Yolcu,1 Kontuar,
+Kuveyt,Uçak Tipi,777 Tipi,8 Kontuar + 1 LA,"1 Royal, 2 Business, 4 Eco, 1 Online "
+,Uçak Tipi,332 Tipi,6 Kontuar + 1 LA,"1 First, 1 Business, 3 Eco, 1 Online "
+,Uçak Tipi,338 Tipi,6 Kontuar + 1 LA,"2 Business, 3 Eco, 1 Online "
+,Uçak Tipi,320 Tipi,4 Kontuar + 1 LA,"1 Business, 2 Eco, 1 Online "
+China Eastern (MU),Kapasite,Konfigürasyon 240+,7+1 Kontuar,LA kontuar açmaz
+,Kapasite,Konfigürasyon <240,6 Kontuar,W Class yok ise 6 hakediş
+China Southern (CZ),Kapasite,Konfigürasyon 240+,8 Kontuar,
+,Kapasite,Konfigürasyon <240,Değişken,1 Bzn + 1 Super Eco (varsa) + her 40 Eco'ya 1
+AirChina (CA),Sabit,Her zaman,6 Kontuar,
+Sichuan (3U3827),Talep/Zaman,Gece (Atina),Talebe Göre,+1 Vize kontrol personeli (Gate'e gitmez)
+Sichuan (3U3828),Sabit,Gündüz (TFU),7 Kontuar,
+Animawings (A2),Yolcu Sayısı,Her 60 Yolcuya,1 Kontuar,1 Bzn yolcusu dahi varsa +1 kontuar
+Lufthansa (LH),Zaman,Gece,6+1 Kontuar,
+,Zaman,Gündüz,5+1 Kontuar,
+Scat Airways,Yolcu Sayısı,Her 50 Yolcuya,1 Kontuar,
