@@ -1,6 +1,0 @@
-streamlit
-pandas
-numpy
-pillow
-openpyxl
-streamlit-aggrid
